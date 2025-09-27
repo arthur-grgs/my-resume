@@ -30,7 +30,7 @@ Explore **my background, skills, and professional experience**.
 ---
 
 ### E-Voyageurs Technologies — *Software Engineer (Frontend)*  
-*01/08/2020 – 31/12/2020 (4 mo)*  
+*01/08/2020 – 31/12/2020 (4 mo)* - Recruited by former manager at Talend during probation period.
 
 - Android mobile app development *(OUI.sncf)*  
 - Bug fixes & production monitoring  
