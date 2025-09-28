@@ -9,7 +9,7 @@ Explore **my background, skills, and professional experience**.
 
 👨‍💻 **Software Engineer** by training, with solid expertise in **QA**.  
 🔄 **Experienced** in alternating between **development** and **QA roles**, bridging coding and testing with a QA-centric mindset.  
-🌟 Career path built on **trust and proven skills**: started as a consultant, then recruited internally by the client, and later invited by a former manager to join a new company.  
+🌟 **Career path** built on **trust and proven skills**: started as a consultant, then recruited internally by the client, and later invited by a former manager to join a new company.  
 🌍 **Motivated to relocate to Switzerland**, with access to a local address through a friend.  
 🚀 **Available to start immediately**.
 
