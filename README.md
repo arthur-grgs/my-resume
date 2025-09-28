@@ -9,6 +9,7 @@ Explore **my background, skills, and professional experience**.
 
 👨‍💻 **Software Engineer** by training, with solid expertise in **QA**.  
 🔄 **Experienced** in alternating between **development** and **QA roles**, bridging coding and testing with a QA-centric mindset.  
+🌟 Career path built on **trust and proven skills**: started as a consultant, then recruited internally by the client, and later invited by a former manager to join a new company
 🌍 **Motivated to relocate to Switzerland**, with access to a local address through a friend.  
 🚀 **Available to start immediately**.
 
@@ -30,7 +31,7 @@ Explore **my background, skills, and professional experience**.
 ---
 
 ### E-Voyageurs Technologies — *Software Engineer (Frontend)*  
-*01/08/2020 – 31/12/2020 (4 mo)* - Recruited by former manager at Talend during probation period.
+*01/08/2020 – 31/12/2020 (4 mo)*
 
 - Android mobile app development *(OUI.sncf)*  
 - Bug fixes & production monitoring  
